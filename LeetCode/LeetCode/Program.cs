@@ -2,7 +2,7 @@
 using LeetCode.LeetCode;
 
 Console.WriteLine("Start");
-Exercise2094 exercise = new Exercise2094();
+IExercise exercise = new Exercise0001();
 exercise.Execute();
 
 Console.WriteLine("Finish");
